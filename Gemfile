@@ -48,3 +48,5 @@ gem 'devise'
 gem 'gravatarify', '~> 3.0.0'
 
 gem 'public_activity'
+
+gem 'auto_html'
